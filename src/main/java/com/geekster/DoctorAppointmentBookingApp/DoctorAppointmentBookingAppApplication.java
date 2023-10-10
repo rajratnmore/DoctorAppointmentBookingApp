@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DoctorAppointmentBookingAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DoctorAppointmentBookingAppApplication.class, args);
-	}
+        SpringApplication.run(DoctorAppointmentBookingAppApplication.class, args);
+    }
 
 }

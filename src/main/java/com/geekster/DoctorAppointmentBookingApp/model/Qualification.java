@@ -1,4 +1,6 @@
 package com.geekster.DoctorAppointmentBookingApp.model;
 
-public class Student {
+public enum Qualification {
+    MBBS, MD, PGOMA
+
 }

@@ -74,9 +74,6 @@ public class PatientService {
             return "Ops Something has been wrong please try again later";
         }
 
-
-        // password should be matched
-
     }
 
     public String patientSignOut(AuthenticationInputDto authenticationInputDto) {
